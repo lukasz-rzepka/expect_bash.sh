@@ -1,0 +1,8 @@
+sudo whoami
+ls -la | grep Zu
+ls ~ | wc
+echo `cat /etc/hostname` > file1
+echo \"hello world\"
+echo 'hello world'
+cat file1
+ls ; ps ; pwd
